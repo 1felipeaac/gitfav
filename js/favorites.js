@@ -152,7 +152,7 @@ export class FavoritesView extends Favorites{
         tb_empty.innerHTML = `
             <td colspan="4">
                 <div>
-                    <img src="./assets/star-empty.svg" alt="">
+                    <img src="https://raw.githubusercontent.com/1felipeaac/gitfav/main/assets/star-empty.svg" alt="star icon table empty">
                     <p>Nenhum favorito ainda</p>
                 </div>
             </td>
